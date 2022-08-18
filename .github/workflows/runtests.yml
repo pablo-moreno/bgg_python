@@ -22,4 +22,4 @@ jobs:
       - name: Setup dependencies
         run: poetry install
       - name: Run tests
-        run: poetry run pytest --cov=spook && poetry run coverage xml
+        run: poetry run pytest --cov && poetry run coverage xml
