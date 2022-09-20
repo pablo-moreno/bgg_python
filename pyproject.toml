@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "boardgg"
-version = "0.1.0"
+version = "0.1.0-rc"
 description = ""
 authors = ["Pablo Moreno <pablomoreno.inf@gmail.com>"]
 
